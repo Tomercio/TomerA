@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomercio
+- 👋 Hey It’s Tomer !
 - 👀 I’m interested in Codding and Malware Analysis
 - 🌱 I’m currently learning FullStack Development
 - 💞️ Open to learn new things.
