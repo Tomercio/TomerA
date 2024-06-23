@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomercio
-- 👀 I’m interested in Malware Analysis
-- 🌱 I’m currently learning Ethical Hacking
+- 👀 I’m interested in Codding and Malware Analysis
+- 🌱 I’m currently learning FullStack Development
 - 💞️ Open to learn new things.
 - 📫 Reach me via Linkedin.
 
